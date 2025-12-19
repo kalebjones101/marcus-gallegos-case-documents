@@ -11,6 +11,9 @@ This document serves as a central index of all publicly referenced video evidenc
 
   - [V-001 — Marcus Gallegos Vehicle Dashcam Recording](#v-001--marcus-gallegos-vehicle-dashcam-recording)
   - [V-002 — Attorney Shield Call Recording](#v-002--attorney-shield-call-recording)
+  - [V-003 — Cullman County Commission Work Session – Public Comment](#v-003--cullman-county-commission-work-session--public-comment)
+  - [V-004 — Cullman County Commission Work Session – Public Comment (External Audio)](#v-004--cullman-county-commission-work-session--public-comment-external-audio)
+  - [V-005 Cullman County Commission Regular Meeting](#v-005-cullman-county-commission-regular-meeting)
 
 ### It is designed for:
 
@@ -107,3 +110,66 @@ This video was recorded by the Attorney Shield mobile application on Marcus Gall
 
 **Hash information:**  
 - Not applicable (device-original not held)
+---
+## V-003 — Cullman County Commission Work Session – Public Comment
+**Date recorded:** 2025-12-16  
+**Location:** Cullman, Alabama  
+**Duration:** 00:20:21  
+**Recording type:** Video  
+**Source category:** Original recording by ALJW (phone video with embedded audio)  
+
+**Provenance summary:**
+This video was recorded by Alabama Justice Watchdog during a Cullman County Commission work session. The original video capture included on-camera audio. For public release, the video was synchronized with a separately recorded high-quality audio source to improve clarity. The file name was standardized for indexing purposes.  
+
+**Public link:** [https://youtube.com/…](https://youtu.be/ubbObg2HB60?si=RvcCoCQlQ2gMWY4M)  
+
+**Integrity notes:**
+- Original video recording retained by ALJW  
+- Audio enhanced via synchronization with external recording  
+- Video trimmed to include only public comment for public version
+- Title and end card added to public version
+- File name standardized for indexing  
+
+**Hash information:**
+- Available upon request (device-original held)
+---
+## V-004 — Cullman County Commission Work Session – Public Comment (External Audio)
+**Date recorded:** 2025-12-16  
+**Location:** Cullman, Alabama  
+**Duration:** 00:20:47  
+**Recording type:** Audio  
+**Source category:** Original recording by ALJW (external audio recorder)  
+
+**Provenance summary:**
+This audio was recorded separately by Alabama Justice Watchdog during a Cullman County Commission work session using an external audio recording device. The audio was synchronized with the corresponding video recording for public release. No standalone public audio file is currently published.
+
+**Public link:** [https://youtube.com/…](https://youtu.be/ubbObg2HB60?si=RvcCoCQlQ2gMWY4M)
+
+**Integrity notes:**
+- Original audio recording retained by ALJW
+- Audio synchronized to video for public presentation
+- No substantive edits made beyond synchronization
+- File name standardized for indexing
+
+**Hash information:**
+- Available upon request (device-original held)
+---
+## V-005 Cullman County Commission Regular Meeting
+**Date Recorded:** 2025-12-16  
+**Location:** Cullman, Alabama  
+**Duration:** 00:00:37  
+**Recording Type:** Video  
+**Source Category:** Public livestream screen capture (Cullman County Commission)  
+
+**Provenance summary:**
+This video was captured by Alabama Justice Watchdog via screen recording from the publicly accessible Cullman County Commission livestream of a regular commission meeting. The recording reflects the meeting as broadcast to the public. ALJW does not possess the original source server file from the Commission. The file name was standardized for indexing purposes.
+
+**Public link:** [https://youtube.com/…](https://youtu.be/9uuNa3u_sDU?si=I-zf90ig2ugSCZzo)
+
+**Integrity notes:**
+- Recorded from a publicly available government livestream
+- No substantive edits made by ALJW
+- File name standardized for indexing
+
+**Hash information:**
+- Not applicable (source server file not held)
