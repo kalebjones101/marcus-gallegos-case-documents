@@ -9,8 +9,8 @@ This document serves as a central index of all publicly referenced video evidenc
 - [Access to Original or Source Media Files](#access-to-original-or-source-media-files)
 - [Video Index Entries](#video-index-entries)
 
-  - [V-001 — Marcus Gallegos Vehicle Dashcam Recording](v-001--marcus-gallegos-vehicle-dashcam-recording)
-  - [V-002 — Attorney Shield Call Recording](v-002--attorney-shield-call-recording)
+  - [V-001 — Marcus Gallegos Vehicle Dashcam Recording](#v-001--marcus-gallegos-vehicle-dashcam-recording)
+  - [V-002 — Attorney Shield Call Recording](#v-002--attorney-shield-call-recording)
 
 ### It is designed for:
 
