@@ -27,3 +27,21 @@ These documents are published by Alabama Justice Watchdog (ALJW) in the interest
 ## Document integrity
 
 Documents are posted as submitted or received. Redactions are limited to personal contact information of private individuals where appropriate.
+
+## Access to Original Media Files
+
+Original, unaltered media files are retained by Alabama Justice Watchdog (ALJW) in their native format.
+
+Due to file size, integrity, and chain-of-custody considerations, original files are not distributed publicly.
+
+Attorneys, journalists, and other qualified reviewers may request access to original files for verification or review purposes.
+
+Requests should include:
+- Name and affiliation
+- Purpose of the request
+- Intended use of the material
+
+Requests may be directed to:
+aljusticewatchdog@gmail.com
+
+SHA-256 hashes for original files are provided in this repository to allow integrity verification upon receipt.
