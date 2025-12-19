@@ -8,12 +8,12 @@ This index catalogs formal documents related to the Marcus Gallegos case, includ
 - [Access to Original Document Files](#access-to-original-document-files)
 - [Document Index Entries](#document-index-entries)
 
-  - [D-001 — Speaking Request to Cullman County Commission](d-001--speaking-request-to-cullman-county-commission)
-  - [D-002 Protest Request to City of Cullman](d-002--protest-request-to-city-of-cullman)
-  - [D-003 — Public Records Request to ALEA](d-003--public-records-request-to-alea)
-  - [D-004 — Event Permit](d-004--event-permit)
-  - [D-005 — Public Records Request to City of Hanceville](d-005--public-records-request-to-city-of-hanceville)
-  - [D-006 — Media Access Request to Cullman County District Court](d-006--media-access-request-to-cullman-county-district-court)
+  - [D-001 — Speaking Request to Cullman County Commission](#d-001--speaking-request-to-cullman-county-commission)
+  - [D-002 Protest Request to City of Cullman](#d-002--protest-request-to-city-of-cullman)
+  - [D-003 — Public Records Request to ALEA](#d-003--public-records-request-to-alea)
+  - [D-004 — Event Permit](#d-004--event-permit)
+  - [D-005 — Public Records Request to City of Hanceville](#d-005--public-records-request-to-city-of-hanceville)
+  - [D-006 — Media Access Request to Cullman County District Court](#d-006--media-access-request-to-cullman-county-district-court)
 
 ### It is designed for:
 
