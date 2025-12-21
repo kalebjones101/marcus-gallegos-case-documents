@@ -35,7 +35,7 @@ The purpose is clarity, neutrality, and traceability. Not argument.
 
 * Links point to publicly viewable copies (YouTube, Google Drive, etc.)
 
-* Original files are preserved offline and are not altered
+* Original or source files are preserved offline and are not altered
 
 ## Source & Provenance of Media Files
 
