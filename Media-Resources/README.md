@@ -34,9 +34,9 @@ A lawful, peaceful public gathering is planned outside the courthouse on that da
 
 | Folder |	Description |
 | --- | --- |
-| [Timeline](#marcus-gallegos-case-documents/01-Timeline/) |	Chronological list of known events related to the arrest and aftermath |
-| [Documents](#marcus-gallegos-case-documents/02-Documents/) |	Public records requests and responses; media access, permit, and speaking requests; and permits |
-| [Video-Index](#marcus-gallegos-case-documents/03-Video-Index/) |	Index of video sources with timestamps and source notes |
+| [Timeline](marcus-gallegos-case-documents/01-Timeline/) |	Chronological list of known events related to the arrest and aftermath |
+| [Documents](marcus-gallegos-case-documents/02-Documents/) |	Public records requests and responses; media access, permit, and speaking requests; and permits |
+| [Video-Index](marcus-gallegos-case-documents/03-Video-Index/) |	Index of video sources with timestamps and source notes |
 
 
 
