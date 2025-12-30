@@ -45,3 +45,8 @@ Referenced documents: [D-005](https://github.com/kalebjones101/marcus-gallegos-c
 
 ### 2025-12-17 Media access request sent to Cullman County Distric Court
 Reference3d documents: [D-006](https://github.com/kalebjones101/marcus-gallegos-case-documents/tree/main/02-Documents#d-006--media-access-request-to-cullman-county-district-court)
+
+---
+
+### 2025-12-29 FOIA request for John Davidson sent to ALEA
+Referenced documents: [D-007](https://github.com/kalebjones101/marcus-gallegos-case-documents/tree/main/02-Documents#d-007--public-records-request-to-alea)
