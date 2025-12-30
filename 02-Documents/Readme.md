@@ -119,3 +119,14 @@ Requests may be directed to:
 **Recipient:** District Court of Cullman County  
 **Status:** Denied  
 **Public link:** [/2025-12-17_GALLEGOS-HANCEVILLE_MEDIA-ACCESS-REQUEST_DISTRICT-COURT-OF-CULLMAN-COUNTY_V2.pdf](/02-Documents/Media-Access-Requests/2025-12-17_GALLEGOS-HANCEVILLE_MEDIA-ACCESS-REQUEST_DISTRICT-COURT-OF-CULLMAN-COUNTY_V2.pdf)
+
+---
+
+## D-007 — Public Records Request to ALEA
+
+**Date created:** 2025-12-29  
+**Document type:** Public records request (PDF)  
+**Author:** Alabama Justice Watchdog  
+**Recipient:** Alabama Law Enforcement Agency 
+**Status:** Received by agency  
+**Public link:** [/2025-12-29_GALLEGOS-HANCEVILLE_RECORDS-REQUEST_ALEA_JOHN-DAVIDSON-DISCIPLINARY-V2.pdf](02-Documents/FOIA-Requests/2025-12-29_GALLEGOS-HANCEVILLE_RECORDS-REQUEST_ALEA_JOHN-DAVIDSON-DISCIPLINARY-V2.pdf)
