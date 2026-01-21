@@ -130,3 +130,27 @@ Requests may be directed to:
 **Recipient:** Alabama Law Enforcement Agency  
 **Status:** Received by agency  
 **Public link:** [/2025-12-29_GALLEGOS-HANCEVILLE_RECORDS-REQUEST_ALEA_JOHN-DAVIDSON-DISCIPLINARY-V2.pdf](/02-Documents/FOIA-Requests/2025-12-29_GALLEGOS-HANCEVILLE_RECORDS-REQUEST_ALEA_JOHN-DAVIDSON-DISCIPLINARY-V2.pdf)
+
+---
+
+## D-008 — Public Records Request to City of Hanceville
+
+**Date created:** 2026-01-13  
+**Document type:** Public records request (png)  
+**Author:** Alabama Justice Watchdog  
+**Recipient:** City of Hanceville  
+**Named official:** John Davidson  
+**Status:** Denied (No Records Found)  
+**Public link:** [/2026-01-13_GALLEGOS-HANCEVILLE_RECORDS-REQUEST_CITY-OF-HANCEVILLE_JOHN-DAVIDSON_REDACTED.png](/02-Documents/FOIA-Requests/2026-01-13_GALLEGOS-HANCEVILLE_RECORDS-REQUEST_CITY-OF-HANCEVILLE_JOHN-DAVIDSON_REDACTED.png)
+
+---
+
+## D-009 — Public Records Request to City of Hanceville
+
+**Date created:** 2026-01-13  
+**Document type:** Complaint (png)  
+**Author:** Alabama Justice Watchdog  
+**Recipient:** City of Hanceville  
+**Named official:** N/A  
+**Status:** Recieved by agency  
+**Public link:** [/2026-01-13_GALLEGOS-HANCEVILLE_COMPLAINT_CITY-OF-HANCEVILLE_REDACTED.png](/02-Documents/Complaints/2026-01-13_GALLEGOS-HANCEVILLE_COMPLAINT_CITY-OF-HANCEVILLE_REDACTED.png)
