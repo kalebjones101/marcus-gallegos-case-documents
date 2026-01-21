@@ -145,7 +145,7 @@ Requests may be directed to:
 
 ---
 
-## D-009 — Public Records Request to City of Hanceville
+## D-009 — Complaint to City of Hanceville
 
 **Date created:** 2026-01-13  
 **Document type:** Complaint (png)  
