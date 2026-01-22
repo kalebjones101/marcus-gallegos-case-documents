@@ -14,6 +14,7 @@ This document serves as a central index of all publicly referenced video evidenc
   - [V-003 — Cullman County Commission Work Session – Public Comment](#v-003--cullman-county-commission-work-session--public-comment)
   - [V-004 — Cullman County Commission Work Session – Public Comment (External Audio)](#v-004--cullman-county-commission-work-session--public-comment-external-audio)
   - [V-005 Cullman County Commission Regular Meeting](#v-005-cullman-county-commission-regular-meeting)
+  - [V-006 — Protest](#v-006--protest)
 
 ### It is designed for:
 
