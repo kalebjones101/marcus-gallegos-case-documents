@@ -173,3 +173,22 @@ This video was captured by Alabama Justice Watchdog via screen recording from th
 
 **Hash information:**
 - Not applicable (source server file not held)
+---
+## V-006 — Protest
+**Date recorded:** 2026-01-13  
+**Location:** Cullman, Alabama  
+**Duration:** 00:18:16  
+**Recording type:** Video  
+**Source category:** Original recording by ALJW (DSLR video with embedded audio)  
+
+**Provenance summary:**
+This video was recorded by Alabama Justice Watchdog during a protest at the Cullman county courthouse. The file name was standardized for indexing purposes.  
+
+**Public link:** [https://youtube.com/…](https://www.youtube.com/watch?v=4d_l_TAllro)  
+
+**Integrity notes:**
+- Original video recording retained by ALJW   
+- File name standardized for indexing  
+
+**Hash information:**
+- Available upon request (device-original held)
