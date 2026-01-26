@@ -14,6 +14,9 @@ This index catalogs formal documents related to the Marcus Gallegos case, includ
   - [D-004 — Event Permit](#d-004--event-permit)
   - [D-005 — Public Records Request to City of Hanceville](#d-005--public-records-request-to-city-of-hanceville)
   - [D-006 — Media Access Request to Cullman County District Court](#d-006--media-access-request-to-cullman-county-district-court)
+  - [D-007 — Public Records Request to ALEA](#d-007--public-records-request-to-alea)
+  - [D-008 — Public Records Request to City of Hanceville](#d-008--public-records-request-to-city-of-hanceville)
+  - [D-009 — Complaint to City of Hanceville](#d-009--complaint-to-city-of-hanceville)
 
 ### It is designed for:
 
