@@ -178,7 +178,7 @@ This video was captured by Alabama Justice Watchdog via screen recording from th
 ## V-006 — Protest
 **Date recorded:** 2026-01-13  
 **Location:** Cullman, Alabama  
-**Duration:** 00:18:16  
+**Duration:** 00:18:17  
 **Recording type:** Video  
 **Source category:** Original recording by ALJW (DSLR video with embedded audio)  
 
@@ -190,6 +190,68 @@ This video was recorded by Alabama Justice Watchdog during a protest at the Cull
 **Integrity notes:**
 - Original video recording retained by ALJW   
 - File name standardized for indexing  
+
+**Hash information:**
+- Available upon request (device-original held)
+---
+## V-007 — City Hall
+**Date recorded:** 2026-01-13  
+**Location:** Hanceville, Alabama  
+**Duration:** 01:00:13  
+**Recording type:** Video  
+**Source category:** Original recording by ALJW (DSLR video with embedded audio)  
+
+**Provenance summary:**
+This video was recorded by Alabama Justice Watchdog during a conversation at Hanceville City Hall. The file name was standardized for indexing purposes.  
+
+**Public link:** [https://youtube.com/…](https://www.youtube.com/watch?v=EKYXLVIOdXY)  
+
+**Integrity notes:**
+- Original video recording retained by ALJW   
+- File name standardized for indexing  
+
+**Hash information:**
+- Available upon request (device-original held)
+---
+## V-008 — Cullman County Commission Regular Meeting – Public Comment
+**Date recorded:** 2026-01-22  
+**Location:** Cullman, Alabama  
+**Duration:** 00:19:00  
+**Recording type:** Video  
+**Source category:** Original recording by ALJW (DSLR with embedded audio)  
+
+**Provenance summary:**
+This video was recorded by Alabama Justice Watchdog during a Cullman County Commission regular meeting. The original video capture included on-camera audio. For public release, the video was synchronized with a separately recorded high-quality audio source to improve clarity. The file name was standardized for indexing purposes.  
+
+**Public link:** [https://youtube.com/…](https://www.youtube.com/watch?v=zf4u31VlEi4)  
+
+**Integrity notes:**
+- Original video recording retained by ALJW  
+- Audio enhanced via synchronization with external recording  
+- Video trimmed to include only public comment for public version
+- Title and end card added to public version
+- File name standardized for indexing  
+
+**Hash information:**
+- Available upon request (device-original held)
+---
+## V-009 — Cullman County Commission Regular Meeting – Public Comment (External Audio)
+**Date recorded:** 2026-01-22  
+**Location:** Cullman, Alabama  
+**Duration:** 00:45:54  
+**Recording type:** Audio  
+**Source category:** Original recording by ALJW (external audio recorder)  
+
+**Provenance summary:**
+This audio was recorded separately by Alabama Justice Watchdog during a Cullman County Commission regular meeting using an external audio recording device. The audio was synchronized with the corresponding video recording for public release. No standalone public audio file is currently published.
+
+**Public link:** [https://youtube.com/…](https://www.youtube.com/watch?v=zf4u31VlEi4)
+
+**Integrity notes:**
+- Original audio recording retained by ALJW
+- Audio synchronized to video for public presentation
+- No substantive edits made beyond synchronization
+- File name standardized for indexing
 
 **Hash information:**
 - Available upon request (device-original held)
