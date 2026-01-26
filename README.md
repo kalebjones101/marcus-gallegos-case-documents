@@ -38,6 +38,31 @@ Alabama Justice Watchdog (ALJW) distinguishes between device-original recordings
 
 All media is presented as received or recorded. No substantive edits have been made unless explicitly disclosed.
 
+## Usage & Permission Notice
+
+This repository and all materials contained within it are made available by Alabama Justice Watchdog (ALJW) for public use in the interest of transparency, accountability, research, and public understanding.  
+
+You are explicitly permitted to:
+- Use, reference, excerpt, or reproduce materials from this repository
+-	Create videos, articles, reports, or other derivative works
+-	Analyze, annotate, or compile data related to the events and cases documented here
+-	Share materials publicly, including on social media, news platforms, or video platforms
+
+This permission applies to all repository contents, including but not limited to:
+-	Videos
+-	Photographs
+-	Audio recordings
+-	Transcripts
+-	Notes, timelines, and documentation
+
+No prior approval from ALJW is required for these uses.  
+
+Attribution:  
+Attribution to Alabama Justice Watchdog is appreciated when practical but is not required.  
+
+Integrity & Context:  
+Users are encouraged to present materials in good faith and avoid materially misleading edits or representations. Publicly released media may contain redactions; original, unredacted materials are retained by ALJW.
+
 ## Access to source media files
 
 Access to source or original media files is handled on a case-by-case basis and depends on the provenance of the file.
