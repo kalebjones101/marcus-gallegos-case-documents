@@ -56,7 +56,7 @@ Requests may be directed to:
 **Provenance summary:**  
 This folder contains original still photographs captured by Alabama Justice Watchdog during a protest at Cullman County Courthouse. The photographs were taken contemporaneously with the event and are preserved as a complete visual record of ALJW’s on-site coverage. Individual image file names were standardized for indexing and organizational consistency.
 
-**Public link:** [/2026-01-13_CULLMAN-PROTEST_HANCEVILLE-CITY-HALL](04-Photos/2026-01-13_CULLMAN-PROTEST_HANCEVILLE-CITY-HALL)  
+**Public link:** [/2026-01-13_CULLMAN-PROTEST_HANCEVILLE-CITY-HALL](/04-Photos/2026-01-13_CULLMAN-PROTEST_HANCEVILLE-CITY-HALL)  
 
 **Integrity notes:**
 - Original photographs retained by ALJW
