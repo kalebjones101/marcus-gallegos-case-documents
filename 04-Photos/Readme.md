@@ -8,7 +8,7 @@ This index catalogs photos taken at events related to the Marcus Gallegos case, 
 - [Access to Original Document Files](#access-to-original-document-files)
 - [Photo Index Entries](#photo-index-entries)
 
-  - [04-Photos - 2026-01-13_CULLMAN-PROTEST_HANCEVILLE-CITY-HALL](#p-001--protest)
+  - [P-001 - Protest](#p-001--protest)
 
 ### It is designed for:
 
@@ -56,7 +56,7 @@ Requests may be directed to:
 **Provenance summary:**  
 This folder contains original still photographs captured by Alabama Justice Watchdog during a protest at Cullman County Courthouse. The photographs were taken contemporaneously with the event and are preserved as a complete visual record of ALJW’s on-site coverage. Individual image file names were standardized for indexing and organizational consistency.
 
-**Public link:** [/2026-01-13_CULLMAN-PROTEST_HANCEVILLE-CITY-HALL](/2026-01-13_CULLMAN-PROTEST_HANCEVILLE-CITY-HALL)
+**Public link:** [/2026-01-13_CULLMAN-PROTEST_HANCEVILLE-CITY-HALL](/04-photos/2026-01-13_CULLMAN-PROTEST_HANCEVILLE-CITY-HALL)
 
 **Integrity notes:**
 - Original photographs retained by ALJW
